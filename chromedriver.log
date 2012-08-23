@@ -1,0 +1,16 @@
+[0.000][INFO]:      ChromeDriver 23.0.1240.0 /home/vishende/work/selenium/chromedriver
+[0.108][FINE]:      Initializing session with capabilities {
+   "browserName": "chrome",
+   "chrome.switches": [  ],
+   "chromeOptions": {
+      "args": [  ],
+      "extensions": [  ]
+   },
+   "platform": "ANY",
+   "version": ""
+}
+
+[0.108][INFO]:      Launching chrome: /opt/google/chrome/google-chrome --enable-logging --log-level=1 --disable-hang-monitor --disable-prompt-on-repost --dom-automation --full-memory-crash-report --no-default-browser-check --no-first-run --disable-background-networking --disable-sync --disable-translate --disable-web-resources --safebrowsing-disable-auto-update --safebrowsing-disable-download-protection --disable-client-side-phishing-detection --disable-component-update --disable-default-apps --password-store=basic --ignore-certificate-errors about:blank
+[45.109][SEVERE]:   Failed to initialize connection
+[109.482][WARNING]: Chrome still running, terminating...
+[109.482][INFO]:    Chrome shutdown
